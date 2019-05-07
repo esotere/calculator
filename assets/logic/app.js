@@ -132,7 +132,7 @@ $(function() {
         })
 
         if ( selection === "compoundInterest") {
-            console.log("Changed to Compound Interest");
+            console.log("Compound Interest Selected");
 
             let compoundInterestForm = $("<h1>Compound Interest</h1>" +
                 "<form id='compoundInteresrForm'>" +
